@@ -1,0 +1,47 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment variable files
+.env
+.env.*
+
+# Dependency files
+*.egg-info/
+.eggs/
+*.egg
+dist/
+build/
+
+# Test coverage
+.coverage
+htmlcov/
+.cache/
+
+# MyPy, Pyright, Pylint
+.mypy_cache/
+.pyright/
+pylint-report.txt
